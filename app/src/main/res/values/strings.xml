@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">تسبیحات حضرت زهرا</string>
+
+    <string name="dhikr_stage1">الله اکبر</string>
+    <string name="dhikr_stage2">الحمدلله</string>
+    <string name="dhikr_stage3">سبحان الله</string>
+
+    <string name="counter_format">%1$d از %2$d</string>
+
+    <string name="settings_title">تنظیمات</string>
+    <string name="settings_music">موسیقی پس‌زمینه</string>
+    <string name="settings_dhikr">صدای ذکر</string>
+    <string name="settings_restart">شروع مجدد</string>
+    <string name="settings_close">بستن</string>
+
+    <string name="final_feedback">ارسال عکس یا نظر</string>
+    <string name="final_restart">شروع مجدد</string>
+
+    <string name="feedback_email_subject">بازخورد درباره اپلیکیشن تسبیحات حضرت زهرا</string>
+    <string name="feedback_email_body">سلام،\n\nنظر یا عکس من درباره اپلیکیشن:\n</string>
+    <string name="feedback_email_address">feedback@example.com</string>
+
+    <string name="cd_settings_button">تنظیمات</string>
+</resources>

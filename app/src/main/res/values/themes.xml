@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.Tasbihat" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/warm_cream</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:statusBarColor">@color/warm_cream</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>

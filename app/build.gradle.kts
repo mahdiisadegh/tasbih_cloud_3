@@ -38,6 +38,10 @@ android {
         compose = true
     }
 
+    composeOptions {
+        kotlinCompilerExtensionVersion = "1.5.4"
+    }
+
     // Audio/image sample assets are not compressed so they load as-is at runtime.
     androidResources {
         noCompress += listOf("wav", "mp3", "jpg", "png")
